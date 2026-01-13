@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "GoGuardian",
+  "version": "1.0",
+  "description": "The most powerful classroom management tool for schools.",
+
+  "background": {
+    "service_worker": "sw.js"
+  },
+
+  "permissions": [],
+
+  "icons": {
+    "16": "icons/favicon.png",
+    "32": "icons/favicon.png",
+    "48": "icons/favicon.png",
+    "128": "icons/favicon.png"
+  },
+
+  "action": {
+    "default_icon": "icons/favicon.png",
+    "default_title": "GoGuardian"
+  }
+}
