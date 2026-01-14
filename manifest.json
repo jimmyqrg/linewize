@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GoGuardian",
+  "name": "Linewize Connect",
   "version": "1.0",
-  "description": "The most powerful classroom management tool for schools.",
+  "description": "The most powerful web filter management tool for schools.",
 
   "background": {
     "service_worker": "sw.js"
